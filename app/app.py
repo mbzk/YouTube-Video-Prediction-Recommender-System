@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 from pathlib import Path
